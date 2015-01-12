@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            Saurabh Tiwari
-tagline:          "00101010"
+tagline:          0b101010
 url:              http://www.neo7.in
 paginate:         1
 baseurl:          /
