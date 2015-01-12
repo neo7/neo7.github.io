@@ -22,7 +22,7 @@ evolution.
 I find the challenges of Machine Learning and Natural Language processing pretty
 intriguing and it has motivated me to develop a REGEX text parser.
 
-Does my work intrgues you? Feel free to leave your inputs on
+Does my work intrgue you? Feel free to leave your inputs on
 tsaurabh.in[at]gmail[dot]com
 
 My Text processor resides here:
