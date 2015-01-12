@@ -8,8 +8,10 @@ relative_permalinks: true
 
 # Setup
 title:            Saurabh Tiwari
-tagline:          '0b101010'
-description:      'Philosopher, Software Developer, Linuxer, StarTrek fan, Happiness Seeker.'
+tagline:          'neo7'
+description:      'Philosopher, Software Developer, Linuxer, Happiness Seeker.'
+
+
 url:              http://www.neo7.in
 baseurl:          /
 
