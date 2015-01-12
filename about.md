@@ -5,8 +5,8 @@ title: About
 
 <p class="message">
   Science is what we understand well enough to explain to a computer. Art is
-  everything else we do
-  - Dr. Donald Ervin Knuth
+  everything else we do.....
+  Dr. Donald Ervin Knuth
 </p>
 
 I am Saurabh Tiwari, I started my life from a single Cell and now I have
