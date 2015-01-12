@@ -6,19 +6,9 @@ permalink: "filters-joins-aggregations"
 ---
 
 *This is the part of fourth post in a series of post by Joshua Lande
-about doing data science with SQL. The
-[previous post]({% post_url 2014-04-28-create-tables-sql %})
-went over the commands
-required to set up the example recipes database from the
-[first post]({% post_url 2014-04-18-database-normalization %})
-in this series.*
+about doing data science with SQL. 
 
-In this post, I will use the example recipes database from the
-[first post]({% post_url 2014-04-18-database-normalization %}) to
-go over the basics of quering in SQL with the `SELECT` statement.
-I will start with the basic operators of filtering, joining, and
-aggregating. Then I will show how these simple commands can be
-combined to create powerful queries.  By the end of this post, you
+By the end of this post, you
 should be able to write advanced SQL queries.
 
 ## SELECT, FROM, and WHERE in SQL
@@ -26,10 +16,6 @@ should be able to write advanced SQL queries.
 We can use the `SELECT` statement in SQL to query data from a
 database.  For example, we might be interested in finding
 all of the ingredients in the "Tomato Soup" recipe
-(from the
-recipes database described in the
-[first post]({% post_url 2014-04-18-database-normalization %})
-in this series).
 
 This query is non-trivial because this
 information is spread across three tables.
@@ -624,4 +610,3 @@ This returns:
 From these examples, I hope you see that the simple SQL operators
 can be combined to perform very powerful queries.
 
-{% include twitter_plug.html %}
